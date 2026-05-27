@@ -46,5 +46,10 @@ the idea should be about a replicable server setup, maybe an ad hoc git repo, in
 	- router in cui si può installare tailscale
 	- Mac mini
 	- Scassone vecchio acer
+ - fare in modo che, se non necessario che tutti i nodi di tipo pc siano accesi, si spengano
+	- gestire tutto il traffico/richieste/instradamento e spegnimento/accensione dallo xiami mara (o raspberry pi che sia
+	- confrontare consumo watt tra xiaomi (o altro android) e raspberry bi (e eventualmente apple M1)
+- ...
 
 ...
+
