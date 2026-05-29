@@ -34,6 +34,8 @@ the idea should be about a replicable server setup, maybe an ad hoc git repo, in
 	- Podsync
 	- Bookmarks (?)
 	- Git
+	- forgejo
+ 	- Shellinabox 
 	- Tabs (?)
 	- Tasks, todos
 - kubernetes to be studied
