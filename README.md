@@ -39,7 +39,8 @@ the idea should be about a replicable server setup, maybe an ad hoc git repo, in
 	- Tabs (?)
 	- Tasks, todos
 - kubernetes to be studied
-- In the future, adding a mac mini m1 node to the cluster
+- have Restore on Power Loss enabled in the bios for turning on automatically after blackouts
+- In the future, adding a mac mini m1 (or a macbook air m1) node to the cluster
 - some kind of script or mechanism that turns on the server only by necessity and turns it off if i’m not using it
 - Ovviamente accessible via ssh da anche rete esterna 
 - avere un piccolo dispositivo che faccia da ponte per accendere il cluster a distanza…uno tra questi:
