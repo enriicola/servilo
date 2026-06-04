@@ -32,6 +32,7 @@ the idea should be about a replicable server setup, maybe an ad hoc git repo, in
 	- Qbittorrent
 	- Backups
 	- Podsync
+ 	- KeePassXC
 	- Bookmarks (?)
 	- Git
 	- forgejo
