@@ -28,6 +28,8 @@ the idea should be about a replicable server setup, maybe an ad hoc git repo, in
 	- Webriicola
 	- Mail, smtp, or whatever
 	- Drive
+ 	- spotify clone (?)
+	- obsidian (?)
 	- Sincthing
 	- Qbittorrent
 	- Backups
