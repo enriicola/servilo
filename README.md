@@ -37,6 +37,7 @@ the idea should be about a replicable server setup, maybe an ad hoc git repo, in
  	- KeePassXC or Vaultwarden
 	- Bookmarks (?)
 	- Git
+ 	- LiteLLM (?)
 	- forgejo
  	- Shellinabox 
 	- Tabs (?)
